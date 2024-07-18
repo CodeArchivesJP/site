@@ -1,12 +1,12 @@
 export const siteConfig: SiteConfig = {
-    title: "Hi! Jazee",
-    language: "zh",
-    description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
-    keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
-    author: "Jazee",
+    title: "CodeArchives",
+    language: "ja",
+    description: "コードアーカイブスの公式ブログです。",
+    keywords: "CodeArchives, CodeArchives Blog, CDA, CDA Blog, コドア",
+    author: "CodeArchives",
     avatar: "/avatar.png",
     favicon: "/favicon.png",
-    site: "https://jaze.top",
+    site: "https://blog.codearchives.net",
 
     page_size: 10,
 }
